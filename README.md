@@ -11,6 +11,6 @@
 
 [A simple login/sign up platform using React + Auth0 with Heroku deployment (Part 2 or 3 — React) by Ian Khor](https://medium.com/devtechtipstricks/a-simple-login-sign-up-platform-using-react-auth0-with-heroku-deployment-part-2-or-3-react-7de3818862ce)
 
-[Heroku Buildpack for create-react-app](https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack)
+[Heroku Buildpack for create-react-app by mars](https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack)
 
 [Heroku Dev Center-Buildpacks](https://devcenter.heroku.com/articles/buildpacks)
